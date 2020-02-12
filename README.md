@@ -10,3 +10,5 @@ Create a new React + Redux application that is very similar to the Counter app, 
 When the letter being shown is 'a' and the users clicks -, the letter should change to 'z'
 
 Likewise, if the letter shown is 'z' and the user clicks +, the letter should change to 'a'
+
+// make a counter that goes up to 25 then returns to 0 
