@@ -13,6 +13,7 @@ Likewise, if the letter shown is 'z' and the user clicks +, the letter should ch
 
 ![Demo](Kapture-2020-02-12-at-15.46.30.gif)
 
-![Demo](https://media.giphy.com/media/QWaSVX9FizaxO/giphy.gif)
+Now we know our ABCs!
+![Demo](https://media.giphy.com/media/14kkd3gt5FJt3a/giphy.gif)
 
 
