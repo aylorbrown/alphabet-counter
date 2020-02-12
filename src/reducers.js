@@ -4,7 +4,7 @@ import {
 } from "./actions";
 
 
-export function count(state=0, action) {
+export function count(state=12, action) {
     let newState = state;
     switch (action.type) {
         case INCREMENT:
