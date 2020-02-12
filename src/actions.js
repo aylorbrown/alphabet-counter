@@ -1,6 +1,5 @@
 export const INCREMENT = 'INCREMENT';
 export const DECREMENT = 'DECREMENT'
-export const RESET = 'RESET';
 
 export function actionIncrement() {
     return ({ 
@@ -11,11 +10,5 @@ export function actionIncrement() {
 export function actionDecrement() {
     return ({ 
         type: DECREMENT
-    })
-}
-
-export function actionReset() {
-    return ({ 
-        type: RESET
     })
 }
